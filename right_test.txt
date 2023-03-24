@@ -1,0 +1,26 @@
+50
+Fall seven times and stand up eight
+
+50
+Fall seven times$$ and stand** up eight
+
+50
+Fall seven times *$and stand up eight
+
+50
+Fall seven times$* and stand** up eight
+
+50
+Fall seven times*$ and stand** up eight
+
+50
+Fall$ seven times and stand up** eight*
+
+50
+Fall *seven *times *and *stand *up *eight
+
+50
+Fall$ seven$ times$ and$ stand$ up$ eight$
+
+50
+Fall seven times and stand up eight$$$$$$$
